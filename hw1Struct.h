@@ -10,10 +10,10 @@
 struct hd_type {
    unsigned int type :  1;
    unsigned int nam1 :  5;
-   unsigned int nam2 :  5;
+   unsigned in nam2 :  5;
    unsigned int oper :  3;
    unsigned int pad1 :  2;
-   unsigned int pad2 : 16;
+   unsigned int pad2 : 16;  
 };
 
 struct id_type {

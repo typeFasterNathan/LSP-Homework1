@@ -1,0 +1,11 @@
+A+B =   1    +   2    =   3
+C-D =   3    -   4    =  -1
+E/F =   5    /   0    = Warning:  division by zero
+G*H =   6    *   7    =  42
+I%J =   8    %   9    =   8
+M+N =  12.00 +  13.00 =  25.00
+O-P =   1.40 -   1.50 =  -0.10
+Q/R =   1.60 /   0.00 = Warning:  division by zero
+S/T =   1.70 /   1.80 =   0.94
+U*V =   1.90 *   2.00 =   3.80
+W%X =   2.10 %   2.20 = Warning: % not valid with float data
